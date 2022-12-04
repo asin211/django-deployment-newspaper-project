@@ -1,0 +1,12 @@
+# Environments
+.env
+
+# Django or Python
+__pycache__/
+db.sqlite3
+
+### OSX ###
+.DS_Store
+
+
+env
